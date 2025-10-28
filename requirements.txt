@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+python-dotenv
+langchain
+langchain-groq
+langchain-core
+jupyter
+ipykernel
+seaborn
+numpy
+matplotlib
+xgboost
+shap
+scikit-learn
